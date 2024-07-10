@@ -61,9 +61,11 @@ git commit -m "initial"
 git push origin main
 ```
 ### Start and Complete Project 
-Copy lab1_starter.ipynb into workspace. Rename it to personalize to your work. Open and begin your project. 
+Copy your personalized lab2_starter.ipynb into this workspace. Rename it to be "lab3_starter." Copy lab3_utility.ipynb into workspace. Rename it to personalize to your work. Open the lab3_starter and begin your project. 
 
-Follow project steps as found in [this PDF](update URL).
+Copy Howell.csv dataset into your project workspace. 
+
+Follow project steps as found in [this PDF](https://github.com/meldstonerogers/machine-learning-module3lab/blob/main/lab3_utility.ipynb).
 
 ## Complete Your Project
 Save your project and push back to your repository. 
